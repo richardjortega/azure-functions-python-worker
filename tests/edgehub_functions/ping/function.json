@@ -1,0 +1,13 @@
+{
+  "scriptFile": "main.py",
+  "disabled": false,
+  "bindings": [
+    {
+      "authLevel": "anonymous",
+      "type": "edgeHubTrigger",
+      "name": "messageReceived",
+      "InputName": "input1",
+      "direction": "in"
+    }
+  ]
+}

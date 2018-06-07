@@ -225,3 +225,6 @@ class Document(abc.ABC):
 
 class DocumentList(abc.ABC):
     pass
+
+class EdgeHubMessage(abc.ABC):
+    pass
